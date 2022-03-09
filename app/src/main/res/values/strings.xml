@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BloodDonation</string>
+    <string name="healtyQuest">Did you feeling healthy and well?</string>
+    <string name="ageQuest">Enter Your Age (19–59)</string>
+    <string name="weightQuest">Enter Your Weight (>45 ,KG)</string>
+    <string name="sleepQuest">More than 5 hours sleep the night before</string>
+    <string name="yesAnswer">Yes!</string>
+    <string name="ageHint">eg. 21</string>
+    <string name="weightHint">eg. 55Kg</string>
+    <string name="donate">Donate</string>
+    <string name="eligibiity">Blood donor eligibility</string>
+    <string name="resultTitle">Blood Donation Result</string>
+    <string name="resultQuest">Result</string>
+    <string name="bloodTakenQuest">Blood Taken</string>
+    <string name="informationText">For more information ,Please go with this link</string>
+    <string name="hyperlinkText">http://www.pdn.gov.my</string>
+</resources>
